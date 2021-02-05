@@ -6,8 +6,8 @@ var x1 = 80, y1 = 100;
 function preload()
 {
   //load images here
-  dogImg = loadImage("images/dogImg.png")
-  happydog = loadImage("images/dogImg1.png")
+  dogImg = loadImage("dogImg.png")
+  happydog = loadImage("dogImg1.png")
 }
 
 function setup() {
