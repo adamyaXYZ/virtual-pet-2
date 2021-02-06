@@ -86,7 +86,7 @@ function feedDoggo(){
   }
   database.ref('/').update({
     Food:bottel.getFoodStock(),
-    feedTime:hour()
+    FeedTime:hour()
   })
 
 }
